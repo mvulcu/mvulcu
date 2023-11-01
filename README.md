@@ -10,11 +10,7 @@
 
 - 🔭 I’m currently working on [Cloud and Infrastructure Specialist Studies](https://ecutbildning.se/utbildningar/cloud-och-infrastrukturspecialist/)
 
-- 🌱 I’m currently learning **Cloud Engineering, Azure, Docker, GitHub, Python, Bash, PowerShell, Web Administration (Apache, MySQL, WordPress, HTML, CSS)**
-
 - ❗ I’m looking for an internship in the following roles: **2nd/3rd Line Support Technician in Cloud Computing, Cloud Infrastructure Specialist, IT Infrastructure Specialist, IT Project Manager/Network, IT Manager, and Microsoft 365 Specialist.**
-
-- 🤝 I’m looking for help with **Learning Kubernetes and Terraform**
 
 - 📫 How to reach me **mashavulcu@gmail.com**
 
