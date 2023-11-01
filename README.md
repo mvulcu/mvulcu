@@ -47,6 +47,8 @@
 
 ![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Thank%20you%20for%20visiting!&fontSize=40&animation=twinkling)
 
+![snake gif](https://github.com/mvulcu/mvulcu/blob/output/github-contribution-grid-snake.gif)
+
 <p align="left">
   <img src="https://profile-counter.glitch.me/mashavulcu/count.svg" alt="Visitor Count" width="100">
 </p>
