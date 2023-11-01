@@ -9,10 +9,6 @@
 
 - 🤝 I’m looking for help with **Learning Kubernetes and Terraform**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mvulcu](https://github.com/mvulcu)
-
-- 💬 Ask me about **Cloud Computing, IT Infrastructure, Cloud Engineering, Learning Path, Career Transition**
-
 - 📫 How to reach me **mashavulcu@gmail.com**
 
 - 📄 Know about my experiences I've transitioned from a background in law and human resources to pursue my passion for IT and technology. I'm currently studying Cloud and Infrastructure Specialist at EC Utbildning. My goal is to become a Cloud and Infrastructure Specialist, and I'm excited to apply my skills in roles such as 2nd/3rd Line Support Technician, Cloud Infrastructure Specialist, IT Infrastructure Specialist, IT Project Manager, Network, IT Manager, and Microsoft 365 Specialist.
