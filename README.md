@@ -45,7 +45,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/>](https://www.mysql.com/) <!-- MySQL -->
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40"/>](https://www.nginx.com) <!-- NGINX -->
 
-![soft](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=Thank%20you%20for%20visiting!&fontSize=40&animation=twinkling)
+
 
 ![snake gif](https://github.com/mvulcu/mvulcu/blob/output/github-contribution-grid-snake.gif)
 
