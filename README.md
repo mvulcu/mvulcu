@@ -7,22 +7,40 @@
 
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">Passionate Cloud Engineer and IT Enthusiast</h3>
+<p align="center">
+  <strong>Explore My Journey into Cloud & DevOps</strong>
+</p>
+
+Welcome to the hub of innovation where my passion for Cloud and DevOps converges with real-world applications. As a Junior Cloud and DevOps specialist, I am constantly evolving, learning, and contributing to the cutting-edge field of technology. My projects are a reflection of my journey, showcasing my skills, challenges I've overcome, and the innovative solutions I've developed.
+<br/><br/>
+
+<p align="center">
+  <a href="https://github.com/mvulcu?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀 Explore%20My%20Projects 🚀-blue?style=plastic" alt="View My GitHub Repositories" width="60%" />
+  </a>
+</p>
+
+<br/>
 
 - 🔭 I’m currently working on [Cloud and Infrastructure Specialist Studies](https://ecutbildning.se/utbildningar/cloud-och-infrastrukturspecialist/)
-
 - ❗ I’m looking for an internship in the following roles: **2nd/3rd Line Support Technician in Cloud Computing, Cloud Infrastructure Specialist, IT Infrastructure Specialist, IT Project Manager/Network, IT Manager, and Microsoft 365 Specialist.**
-
-- 📫 How to reach me **mashavulcu@gmail.com**
-
-- 📄 Know about my experiences I've transitioned from a background in law and human resources to pursue my passion for IT and technology. I'm currently studying Cloud and Infrastructure Specialist at EC Utbildning. My goal is to become a Cloud and Infrastructure Specialist, and I'm excited to apply my skills in roles such as 2nd/3rd Line Support Technician, Cloud Infrastructure Specialist, IT Infrastructure Specialist, IT Project Manager, Network, IT Manager, and Microsoft 365 Specialist.
-
-- ⚡ Fun fact **In addition to my IT pursuits, I maintain a website ([vulcu.se](https://vulcu.se)) where you can learn more about me and my journey into the world of technology.**
+- ⚡ Fun fact **In addition to my IT pursuits, I maintain a website [cloudcv.se](https://cloudcv.se/) where you can learn more about me and my journey into the world of technology.**
 - 🤖🧠 I have also created a **Telegram AI Chatbot** called ChatGPT! You can check it out here: **[AnswerHeroBot](https://t.me/AnswerHeroBot)**
 
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/maria-v-828a892a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mariavulcu" height="30" width="40" /></a>
+  <a href="mailto:mashavulcu@gmail.com">
+    <img src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" alt="Email" height="30" width="40" />
+  </a>
+  <br/>
+  <a href="https://linkedin.com/in/mariavulcu" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+  </a>
 </p>
+
+
 
 &nbsp;
 &nbsp;
@@ -44,6 +62,8 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"/>](https://sass-lang.com) <!-- Sass -->
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40"/>](https://www.mysql.com/) <!-- MySQL -->
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40"/>](https://www.nginx.com) <!-- NGINX -->
+
+
 
 
 
