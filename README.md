@@ -30,11 +30,6 @@ Welcome to the hub of innovation where my passion for Cloud and DevOps converges
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="mailto:mashavulcu@gmail.com">
-    <img src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" alt="Email" height="30" width="40" />
-  </a>
-  <br/>
   <a href="https://linkedin.com/in/mariavulcu" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
