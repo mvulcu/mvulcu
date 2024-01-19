@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ecutbildning.se/utbildningar/cloud-och-infrastrukturspecialist/"><img src="https://img.shields.io/badge/Study-Cloud%20and%20Infrastructure%20-blue?style=for-the-badge&logo=appveyor" alt="Study"></a>
-  <a href="https://vulcu.se"><img src="https://img.shields.io/badge/Website-vulcu.se-green?style=for-the-badge&logo=firefox-browser" alt="Website"></a>
+  <a href="https://cloudcv.se/"><img src="https://img.shields.io/badge/Website-vulcu.se-green?style=for-the-badge&logo=firefox-browser" alt="Website"></a>
   <a href="mailto:mashavulcu@gmail.com"><img src="https://img.shields.io/badge/Email-mashavulcu%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://linkedin.com/in/mariavulcu"><img src="https://img.shields.io/badge/LinkedIn-Maria%20V.-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
