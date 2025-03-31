@@ -1,17 +1,16 @@
 <p align="center">
-  <a href="https://ecutbildning.se/utbildningar/cloud-och-infrastrukturspecialist/"><img src="https://img.shields.io/badge/Study-Cloud%20and%20Infrastructure%20-blue?style=for-the-badge&logo=appveyor" alt="Study"></a>
-  <a href="https://lookmycv.se/"><img src="https://img.shields.io/badge/Website-lookmycv.se-green?style=for-the-badge&logo=firefox-browser" alt="Website"></a>
+  <a href="https://www.lernia.se/utbildning/yrkeshogskoleutbildning/devops-engineer/"><img src="https://img.shields.io/badge/Study-DevOps%20Engineer-blue?style=for-the-badge&logo=appveyor" alt="Study"></a>
   <a href="mailto:mashavulcu@gmail.com"><img src="https://img.shields.io/badge/Email-mashavulcu%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://linkedin.com/in/mariavulcu"><img src="https://img.shields.io/badge/LinkedIn-Maria%20V.-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Maria</h1>
-<h3 align="center">Passionate Cloud Engineer and IT Enthusiast</h3>
+<h3 align="center">Passionate DevOps Engineer in Training</h3>
 <p align="center">
   <strong>Explore My Journey into Cloud & DevOps</strong>
 </p>
 
-Welcome to the hub of innovation where my passion for Cloud and DevOps converges with real-world applications. As a Junior Cloud and DevOps specialist, I am constantly evolving, learning, and contributing to the cutting-edge field of technology. My projects are a reflection of my journey, showcasing my skills, challenges I've overcome, and the innovative solutions I've developed.
+Welcome to the hub of innovation where my passion for Cloud and DevOps converges with real-world applications. I am currently studying to become a DevOps Engineer, focusing on cloud technologies, automation, and infrastructure solutions. My projects are a reflection of my journey, showcasing my skills, challenges I've overcome, and the innovative solutions I've developed.
 <br/><br/>
 
 <p align="center">
@@ -22,10 +21,9 @@ Welcome to the hub of innovation where my passion for Cloud and DevOps converges
 
 <br/>
 
-- 🔭 I’m currently working on [Cloud and Infrastructure Specialist Studies](https://ecutbildning.se/utbildningar/cloud-och-infrastrukturspecialist/)
-- ❗ I’m looking for an internship in the following roles: **2nd/3rd Line Support Technician in Cloud Computing, Cloud Infrastructure Specialist, IT Infrastructure Specialist, IT Project Manager/Network, IT Manager, and Microsoft 365 Specialist.**
-- ⚡ Fun fact **In addition to my IT pursuits, I maintain a website [cloudcv.se](https://cloudcv.se/) where you can learn more about me and my journey into the world of technology.**
-- 🤖🧠 I have also created a **Telegram AI Chatbot** called ChatGPT! You can check it out here: **[AnswerHeroBot](https://t.me/AnswerHeroBot)**
+- 🔭 I'm currently studying to become a DevOps Engineer at [Lernia DevOps Engineer Program](https://www.lernia.se/utbildning/yrkeshogskoleutbildning/devops-engineer/)
+- 🌱 Learning: CI/CD pipelines, Infrastructure as Code, Kubernetes, and cloud infrastructure management
+- ⚡ Fun fact: **"Automate everything! I firmly believe if you have to do it twice, it's time to automate it. My apartment would run on Terraform if I could figure out how to make my coffee machine accept YAML!"**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -67,4 +65,3 @@ Welcome to the hub of innovation where my passion for Cloud and DevOps converges
 <p align="left">
   <img src="https://profile-counter.glitch.me/mashavulcu/count.svg" alt="Visitor Count" width="100">
 </p>
-
