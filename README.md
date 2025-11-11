@@ -41,11 +41,20 @@ I like seeing systems *come alive*, watching containers spin up, logs breathe, m
 | Project | Description | Stack |
 |:--------|:-------------|:------|
 | 🐳 [**WordPressOpenShift**](https://github.com/mvulcu/WordPressOpenShift) | Manual deployment of WordPress + MariaDB on OpenShift — pure YAML, IaC style. | OpenShift, Kubernetes, Bitnami, PVC, Route |
-| ☁️ [**KulturHub**](https://github.com/mvulcu/KulturHub) | Event management platform built for the cloud — CI/CD, IaC, and Grafana monitoring. | Next.js, Azure Bicep, GitHub Actions, Docker |
-| 🔧 [**DevOps Portfolio**](https://github.com/mvulcu/devops-portfolio) | My personal site and Azure monitoring demo — live metrics, IaC automation. | Next.js, Azure, Application Insights, Bicep |
+| ☁️ **KulturHub** 🔒 | Cloud-based platform for cultural events management. Full CI/CD, IaC, and Grafana monitoring pipeline. *(Private repo — docs available on [grepme.dev](https://grepme.dev))* | Next.js, Azure Bicep, GitHub Actions, Docker |
+| ⚙️ **DevOps Portfolio** 🔒 | Professional portfolio with live Azure monitoring and IaC automation. *(Private repo — overview on [grepme.dev](https://grepme.dev))* | Next.js, Azure, Application Insights, Bicep |
 | 🧩 [**Group Project: WordPress i OpenShift**](https://github.com/BathrobeBat/WordPress-i-OpenShift-Grupp4) | Team deployment of WordPress via Helm — exploring automation and collaboration. | Helm, Bitnami, OpenShift |
 
 ---
+
+<p align="center">
+  <a href="https://grepme.dev">
+    <img src="https://img.shields.io/badge/🔍 Read%20more%20on%20grepme.dev-1abc9c?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"
+         alt="Read more on grepme.dev"
+         style="border-radius:10px;box-shadow:0 0 15px rgba(26,188,156,0.8);"/>
+  </a>
+</p>
+
 
 ## ⚙️ Tech Stack  
 
